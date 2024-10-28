@@ -9,3 +9,8 @@ Each question is worth two points:
 
 * Data plotted as described by the question (1 pt)
 * Plot contains required elements (title, axis labels, axis titles, legend if required)
+
+## Convert to HTML
+```
+jupyter nbconvert --to html pyplot.ipynb
+```
