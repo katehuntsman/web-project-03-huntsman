@@ -1,14 +1,14 @@
 # Matplotlib and pyplot
+```
+This exercise is used to reinforce key Python visualization skills. It offers practice with web-enabled Jupyter notebooks and lays some important foundations for presenting information obtained from mining the web and processing language.  We'll use the MatplotlibLinks to an external site. library. The Matplotlib library includes the pyplot module which provides a simple interface for building charts. 
+```
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+## Clone the Repo
+```
+Select the "Use this Template" button on GitHub and specifying yourself as the owner.  The base repository is available at: https://github.com/wmnlp-materials/pyplot/blob/master/pyplot.ipynbLinks to an external site.
 
-## Rubric
-
-Each question is worth two points: 
-
-* Data plotted as described by the question (1 pt)
-* Plot contains required elements (title, axis labels, axis titles, legend if required)
+Clone YOUR new repo down to your machine.
+```
 
 ## Convert to HTML
 ```
